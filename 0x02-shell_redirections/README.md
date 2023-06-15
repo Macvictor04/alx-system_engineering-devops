@@ -5,3 +5,4 @@ A file that displays the content of /etc/passwd
 A script that displays two files
 displaying the last lines
 displays firstlines of a file
+the third line od a script
